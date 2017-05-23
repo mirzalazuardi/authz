@@ -1,0 +1,10 @@
+{
+  "name": "authz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mirzalazuardi Hermawan <mirzalazuardi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
